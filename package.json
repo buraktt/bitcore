@@ -84,7 +84,7 @@
   "dependencies": {
     "bitcore-lib": "buraktt/bitcore-lib#e5d0530168d1d4f16111be47bb1a613452ce1635",
     "bitcore-node": "satoshilabs/bitcore-node#da993b56c260448b6737c82ceff39ec211256e8d",
-    "insight-api": "satoshilabs/insight-api#6ef6003648e0a5e27c67d677d6aee04bd31eae04",
+    "insight-api": "buraktt/insight-api#a4c1a108c5ac35853c7f52000657f4ce8e463621",
     "insight-ui": "satoshilabs/insight#0eee359b3d951c749fc3078f0118669be3bb46fb"
   },
   "license": "MIT",
